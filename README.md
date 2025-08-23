@@ -41,7 +41,7 @@ Full-stack TypeScript app to digitize donation, volunteer, and event management 
 ### [Ment(or/ee)](https://github.com/acm-projects/Ment-or-ee)  
 A MERN app connecting students with mentors via real-time chat, Zoom integration, and algorithmic matching based on interests and goals.
 
-### [Taskmaster.ai (In Progress)](https://github.com/NovaBoltSpider10/taskmaster-server)  
+### [Taskmaster.ai (In Progress)](https://github.com/orgs/utdaistaskmasterai/repositories)  
 MERN + Flask task management app designed to boost productivity with intelligent features.
 
 ---
