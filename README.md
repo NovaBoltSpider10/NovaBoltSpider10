@@ -3,7 +3,7 @@
 
 # 👋 Hello, I’m Ali Arkate
 
-📍 Richardson, TX | 📞 214-899-6693 | 📧 [drive2winjoy@gmail.com]()
+📍 Richardson, TX | 📞 214-899-6693 | 📧 [ali.arkate06@gmail.com]()
 
 🔗 [LinkedIn](https://linkedin.com/in/aliarkate/)
 
