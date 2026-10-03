@@ -83,4 +83,4 @@ A MERN app connecting students with mentors via real-time chat, Zoom integration
 
 Open to collaboration and professional opportunities! Reach out via:
 
-✉️ [drive2winjoy@gmail.com]() | 🔗 [LinkedIn](https://linkedin.com/in/aliarkate/)
+✉️ [ali.arkate06@gmail.com]() | 🔗 [LinkedIn](https://linkedin.com/in/aliarkate/)
